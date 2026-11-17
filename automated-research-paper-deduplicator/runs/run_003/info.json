@@ -1,0 +1,11 @@
+{
+  "run_id": "run_003",
+  "name": "Run 003 \u2013 8 Research Papers",
+  "created_at": "2026-10-31 17:44:28",
+  "pdf_count": 8,
+  "status": "completed",
+  "has_candidates": true,
+  "candidates_count": 1,
+  "file_duplicates": 1,
+  "pending_review": 1
+}

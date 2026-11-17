@@ -1,0 +1,13 @@
+metric,count
+Records identified in input,3
+Exact file duplicates identified,0
+Records after exact-file deduplication,3
+Duplicate candidates detected by algorithm,1
+Potential duplicates detected by algorithm,0
+Candidates requiring manual verification,1
+Candidates reviewed,0
+Candidates confirmed as duplicates by reviewer,0
+Candidates marked Not Duplicate,0
+Candidates awaiting review,1
+Records removed as confirmed duplicates,0
+Records remaining after deduplication,3
